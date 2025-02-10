@@ -10,7 +10,7 @@ Modélisateur en écologie en reconversion Technicien Superieur Systèmes et Ré
 
 ## Formation
 
-**Master Biodiversité Écologie Évolution** De septembre 2021 à juin 2023
+**Master Biodiversité Écologie Évolution** De septembre 2021 à juin 2023 //
 *Université de Rennes 1 Rennes, France
 Mention Modélisation en Écologie*
 
