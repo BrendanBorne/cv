@@ -2,6 +2,9 @@
 
 ---
 
+![Profile Pic](img/profile.jpg)
+
+---
 ## Présentation
 
 Modélisateur en écologie en reconversion Technicien Superieur Systèmes et Réseaux. 
@@ -11,15 +14,15 @@ Modélisateur en écologie en reconversion Technicien Superieur Systèmes et Ré
 ## Formation
 
 **Master Biodiversité Écologie Évolution** De septembre 2021 à juin 2023 \
-*Université de Rennes 1 Rennes, France\
+*[Université de Rennes 1](https://www.univ-rennes.fr/), France\
 Mention Modélisation en Écologie*
 
 **Licence Biologie** De septembre 2018 à mai 2021\
-*UFR Sciences Brest, France\
+*[UFR Sciences Brest](https://www.univ-brest.fr/faculte-sciences/fr), France\
 Mention Biologie des Organismes et des Populations - Environnement*
 
 **DUT Informatique** De septembre 2015 à juin 2017\
-*IUT Lannion, France\
+*[IUT de Lannion](https://iut-lannion.univ-rennes.fr/), France\
 Spécialité Génie Logiciel*
 
 **Baccalauréat Scientifique** 2015\
