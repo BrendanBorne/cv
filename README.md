@@ -2,7 +2,8 @@
 
 ---
 
-![Profile Pic](img/profile.jpg)
+![Profile Pic](img/profile.png)
+*Image de profil identique à celle sur Odyssey*
 
 ---
 ## Présentation
