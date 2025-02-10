@@ -51,4 +51,4 @@ Développement d'une application web avec AngularJS*
 
 Musique\
 Littérature\
-Jeux de rôle\
+Jeux de rôle
